@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(TOO_restaurant_Panoramique_vue_Paris_Seine_Tour_Eiffel_2.jpg);
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    opacity: 0.6;
+  }
+  
+  nav {
+    margin-top: 1rem;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin: 0 1rem;
+    cursor: pointer;
+  }
+  
+  button.active {
+    font-weight: bold;
+    
+  }
+  
+  .tab-content {
+    margin: 2rem;
+    font-family: 'Times New Roman';
+    background-color: wheat;
+   
+  }
+  
