@@ -1,2 +1,2 @@
 # restaurent
-a basic restaurent website.
+A basic restaurent website from  The Odin Project.
