@@ -31,5 +31,5 @@ document.getElementById('contact-tab').addEventListener('click', () => {
   loadContact();
 });
 
-// Initial tab load
+
 loadHome();
